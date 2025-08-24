@@ -507,6 +507,7 @@ elements = {
         'name': 'Tantalum',
         'symbol': 'Ta',
         'atomic_number': 73,
+
         'atomic_mass': 180.94788,
         'uses': 'Used in electronics and surgical instruments'
     },
@@ -518,7 +519,7 @@ elements = {
         'uses': 'Used in light bulb filaments and cutting tools'
     },
     75: {
-        'name': 'Rhenium',
+            'name': 'Rhenium',
         'symbol': 'Re',
         'atomic_number': 75,
         'atomic_mass': 186.207,
